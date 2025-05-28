@@ -38,8 +38,8 @@
 }
 
 .body-left {
-    width: 400px;
-    height: 500px;
+    width: 40%;
+    height: 100vh;
     background-color: #e4d6c9;
 }
 .main-box {
@@ -47,6 +47,7 @@
     height: 450px;
     background-color: white;
     margin-left: 90%;
+    margin-top: 20%;
 }
 .box {
     width: 300px;
@@ -58,16 +59,16 @@
     padding: 20px;
 }
 .box img {
-    border-top-left-radius: 100px;
-    border-top-right-radius: 100px;
-    width: 175px;
+    border-radius: 100%;
+    width: 200px;
 }
 .body-right {
-    width: 100%;
+    width: 70%;
     margin-right: 25%;
 }
 .box-text {
     padding-left:55%;
+    margin-top: 10%;
 }
 .body-part {
     display: flex;
