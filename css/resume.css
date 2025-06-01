@@ -25,8 +25,9 @@
     text-decoration: none;
 }
 .menu a:hover {
-    color: brown;
-    text-decoration-line: overline;
+    color: #4b67a1;
+    text-decoration: overline;
+    text-decoration-thickness: 3px;
 }
 
 .footer {
